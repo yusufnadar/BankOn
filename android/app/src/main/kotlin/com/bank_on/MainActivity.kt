@@ -1,4 +1,4 @@
-package com.bank_on.bank_on
+package com.bank_on
 
 import io.flutter.embedding.android.FlutterActivity
 
