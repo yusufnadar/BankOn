@@ -1,6 +1,6 @@
-# control_bank_accounts
+# bank_on
 
-A new Flutter project.
+Save your money
 
 ## Getting Started
 

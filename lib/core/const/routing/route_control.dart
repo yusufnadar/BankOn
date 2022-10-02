@@ -1,5 +1,5 @@
-import 'package:control_bank_accounts/view/pages/account_details.dart';
 import 'package:get/get.dart';
+import '../../../view/pages/account_details.dart';
 import '../../../view/pages/home_page.dart';
 import '../../../view/pages/splash.dart';
 import '../../init/bindings.dart';

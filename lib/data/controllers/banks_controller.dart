@@ -1,8 +1,9 @@
-import 'package:control_bank_accounts/core/init/database_helper_service.dart';
-import 'package:control_bank_accounts/core/init/locator_service.dart';
-import 'package:control_bank_accounts/data/models/banks_model.dart';
-import 'package:control_bank_accounts/data/models/transactions_model.dart';
 import 'package:get/get.dart';
+
+import '../../core/init/database_helper_service.dart';
+import '../../core/init/locator_service.dart';
+import '../models/banks_model.dart';
+import '../models/transactions_model.dart';
 
 class BanksController extends GetxController {
   final _banks = <BanksModel>[].obs;

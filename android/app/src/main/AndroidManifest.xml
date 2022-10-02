@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bank_accounts.control_bank_accounts">
+    package="com.bank_on.bank_on">
    <application
-        android:label="BankOn"
+        android:label="bank_on"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

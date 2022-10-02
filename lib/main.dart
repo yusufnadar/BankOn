@@ -1,14 +1,14 @@
-import 'package:control_bank_accounts/core/conts/routing/pages.dart';
-import 'package:control_bank_accounts/core/conts/routing/route_control.dart';
-import 'package:control_bank_accounts/core/conts/themes.dart';
-import 'package:control_bank_accounts/core/init/database_helper_service.dart';
-import 'package:control_bank_accounts/core/init/locator_service.dart';
-import 'package:control_bank_accounts/core/init/theme_service.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'core/conts/app.dart';
+import 'core/const/app.dart';
+import 'core/const/routing/pages.dart';
+import 'core/const/routing/route_control.dart';
+import 'core/const/themes.dart';
+import 'core/init/database_helper_service.dart';
+import 'core/init/locator_service.dart';
+import 'core/init/theme_service.dart';
 
 void main() async{
   await GetStorage.init();

@@ -1,5 +1,6 @@
-import 'package:control_bank_accounts/core/conts/app.dart';
 import 'package:flutter/material.dart';
+
+import '../../core/const/app.dart';
 
 extension MyPadding on Widget {
   Widget customHorizontal() {

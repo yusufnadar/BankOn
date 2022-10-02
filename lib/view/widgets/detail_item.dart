@@ -1,12 +1,13 @@
 import 'package:auto_size_text/auto_size_text.dart';
-import 'package:control_bank_accounts/core/conts/icons.dart';
-import 'package:control_bank_accounts/data/models/transactions_model.dart';
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 
-import '../../core/conts/colors.dart';
-import '../../core/conts/fonts.dart';
+import '../../core/const/colors.dart';
+import '../../core/const/fonts.dart';
+import '../../core/const/icons.dart';
+import '../../data/models/transactions_model.dart';
 
 class DetailItem extends StatelessWidget {
   final Function()? deleteTap;

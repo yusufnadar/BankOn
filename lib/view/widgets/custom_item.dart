@@ -1,8 +1,8 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../../core/conts/colors.dart';
-import '../../core/conts/fonts.dart';
+import '../../core/const/colors.dart';
+import '../../core/const/fonts.dart';
 
 class CustomItem extends StatelessWidget {
   final String text1;
