@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
-import '../conts/local_storage.dart';
+import '../const/local_storage.dart';
 import 'local_service.dart';
 import 'locator_service.dart';
 

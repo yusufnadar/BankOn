@@ -1,5 +1,5 @@
-name: control_bank_accounts
-description: A new Flutter project.
+name: bank_on
+description: Save your money
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -44,12 +44,12 @@ dependencies:
   lottie:
   intl:
 
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
   flutter_launcher_icons: "^0.10.0"
+
 
 flutter_icons:
   android: true
@@ -99,8 +99,6 @@ flutter:
         - asset: assets/fonts/comfortaa/Comfortaa-Medium.ttf
         - asset: assets/fonts/comfortaa/Comfortaa-SemiBold.ttf
         - asset: assets/fonts/comfortaa/Comfortaa-Bold.ttf
-  #       - asset: fonts/Schyler-Italic.ttf
-  #         style: italic
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf

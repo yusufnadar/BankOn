@@ -1,12 +1,11 @@
-import 'package:control_bank_accounts/core/conts/colors.dart';
-import 'package:control_bank_accounts/core/conts/fonts.dart';
-import 'package:control_bank_accounts/core/conts/lotties.dart';
-import 'package:control_bank_accounts/core/conts/routing/pages.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
 
-import '../../core/conts/icons.dart';
+import '../../core/const/colors.dart';
+import '../../core/const/icons.dart';
+import '../../core/const/lotties.dart';
+import '../../core/const/routing/pages.dart';
 
 class SplashController extends GetxController
     with GetSingleTickerProviderStateMixin {

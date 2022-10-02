@@ -1,11 +1,10 @@
-import 'package:control_bank_accounts/core/conts/colors.dart';
-import 'package:control_bank_accounts/data/controllers/banks_controller.dart';
-import 'package:control_bank_accounts/data/models/banks_model.dart';
-import 'package:control_bank_accounts/data/models/transactions_model.dart';
-import 'package:control_bank_accounts/utils/extension/padding.dart';
+import 'package:bank_on/utils/extension/padding.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../../core/conts/app.dart';
+import '../../core/const/app.dart';
+import '../../core/const/colors.dart';
+import '../../data/controllers/banks_controller.dart';
+import '../../data/models/transactions_model.dart';
 import '../widgets/action_button.dart';
 import '../widgets/custom_button.dart';
 import '../widgets/custom_input.dart';
